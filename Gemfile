@@ -29,7 +29,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 
 group :test do
-	gem 'capybara', '1.1.2'
+	gem 'capybara'
 end
 
 group :production do
